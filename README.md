@@ -1,6 +1,5 @@
 # basic-node-api-stocks
 Simple Boilerplate Api For Teaching Purposes
-
 <br>
 This Project Uses Finnhub.io API, A sandbox api key is currently in place in the code.
 
